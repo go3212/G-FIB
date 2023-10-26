@@ -1,0 +1,15 @@
+28. Checkerboard 1
+29. Checkerboard 2
+30. Checkerboard 3
+34. Hinomaru
+34bis. Hinomaru bis (implementeu anti-aliasing amb smoothstep; no patiu pel test)
+35. Hinomaru 2
+22. Spherize (útil per a parametrització esfèrica)
+27. Calculant la normal al FS
+25. CRT Display
+37. Uncover
+
+Opcionals:
+  31. Senyera
+  32. Checkerboard 4
+  33. CircularStripes (si no el veieu correctament, el podeu consultar aquí).

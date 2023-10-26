@@ -1,0 +1,14 @@
+   7. Basic Texture
+   8. Animate Texture (per passar el test, cal modificar s i t)
+   9. Tiling
+  11. Explosion
+  24. UV unfold  (*) 
+  43. Texture splatting
+  
+(*) Observeu que per l'exercici UV unfold, el punt que ha d'escriure el VS a gl_Position no dependrà ni de la matriu modelViewProjection, ni de vertex, sinó de texCoord.
+
+Opcionals:
+    12. Fire
+    44. Marble
+    38. Gioconda
+    42. Parallax hallucination
